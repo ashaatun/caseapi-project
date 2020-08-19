@@ -28,6 +28,7 @@ node_modules/
 # MacOS system files
 .DS_Store
 
+
 # Windows system files
 Thumbs.db
 ehthumbs.db
